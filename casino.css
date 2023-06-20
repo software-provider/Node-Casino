@@ -5,6 +5,9 @@ body * {
 .display-field {
 	margin: 10px 20% auto;
 }
+.display-sound{
+	width:100px;
+}
 
 .display-field .img-responsive{
 	border: 2px #eee solid;
